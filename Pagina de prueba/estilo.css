@@ -1,0 +1,136 @@
+
+
+*{
+
+
+margin: 0;
+padding: 0;
+box-sizing:border-box;
+
+}
+
+body {
+
+min-height:100vh;
+background:#494949;
+
+}
+
+
+
+.imagenes{
+
+  display: flex;
+  justify-content: center;
+  
+
+}
+
+.crema {
+
+width: 800px;
+
+}
+
+.F {
+
+width: 800px;
+
+}
+
+.FM {
+
+width: 800px;
+
+}
+
+.conteiner {
+
+position:relative;
+width:100%;
+height:100vh;
+overflow:hidden;
+
+}
+
+
+
+.imagenes2{
+
+  display: flex;
+justify-content: center;
+
+}
+
+.A {
+
+width: 500px;
+
+}
+
+.imagenes3 {
+
+  display: flex;
+  justify-content: center;
+
+}
+
+.TB{
+
+width: 800px;
+
+}
+
+.TC{
+
+width: 800px;
+
+}
+
+.CT {
+
+width: 800px;
+
+}
+
+.imagenes4{
+
+  display: flex;
+  justify-content: center;
+
+}
+
+.PN {
+
+width: 800px;
+
+}
+
+.primer-boton{
+
+  display: flex;
+  justify-content: center;
+  margin-bottom: 10px;
+
+}
+
+.segundo-boton{
+
+  display: flex;
+  justify-content: center;
+  margin-bottom: 10px;
+}
+
+.tercer-boton{
+
+  display: flex;
+  justify-content: center;
+margin-bottom: 10px;
+}
+
+.cuarto-boton {
+
+  display: flex;
+  justify-content: center;
+margin-bottom: 10px;
+}
